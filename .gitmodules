@@ -1,0 +1,6 @@
+[submodule "Tiluan_back_end"]
+	path = Tiluan_back_end
+	url = https://github.com/Aika8/Tiluan_back_end.git
+[submodule "Tiluan_front"]
+	path = Tiluan_front
+	url = https://github.com/Aika8/Tiluan_front.git
